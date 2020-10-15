@@ -25,13 +25,12 @@
         android:id="@+id/imageView"
         android:layout_width="250dp"
         android:layout_height="339dp"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
         android:src="@mipmap/cloud_round"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="77dp"
-        tools:layout_editor_absoluteY="149dp"
-        android:layout_gravity="center"
-        android:layout_margin="20dp"
-        />
+        tools:layout_editor_absoluteY="149dp" />
 
     <EditText
         android:layout_margin="10dp"
